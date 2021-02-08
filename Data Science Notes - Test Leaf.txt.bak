@@ -1,0 +1,76 @@
+1. Testleaf wifi password:  
+    wifi name : testleaf, tuna2
+    password  : tunatap@123
+    
+   Imran github: https://github.com/imohamedimran
+   mohammed noorruddin : https://github.com/nursnaaz
+
+2. Total Course : 9 weeks [excluding demo class]
+   Mohammed Nuruddin - High level Trainer
+     Imran     -  Python [2 weeks]
+     Imran     - Statistics and Probability [For interveiw purpose] [2 weeks]
+     Imran     - Machine Learning [4 weeks]
+     Busheer - GCP deployment [1 week]
+
+
+3. Definitions:
+       Machine learning : if you replace a machine with expert system [expert person]. This can be achieved by giving quality and good number of information [history of events/samples] to machine algorithm. 
+                          Example: analyzing a x-ray [only doctor with more practice can only do . Hence it is exper job]
+       AI               : if you repalce a common human being[ activity] with machine then AI. 
+                           Example: Driving a car with machine [here dring is common human activity which can be replaced,]
+                           Example: chat bot
+       Statistics : 
+       Deep Learning :  it is tool to achive AI
+       ADS   : Aanlytical Data set [preprocessed data. i.e ready for analyis for feeding for machine learning models]
+       EDA   : Exploratory Data Analysis [This analysis will be done post cleaning, EDA will help to understand data trend to decide which ML model to be used for higher accurate results]
+       CV    : Co-efficient of Variation. Used find the how good or bad each data is. low value good, i.e less stddev, more value is bad, stddev is bad
+4. Usefful links:
+                 Python : 1. telusuko channel - Python for begineers video tutorial https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3 
+                          2. Programiz.com - Pyhon web turorial https://www.programiz.com/python-programming
+			  3. for Python Pandas : https://www.dataquest.io/blog/pandas-python-tutorial/  - 
+			     ** Pandas cheat sheet: https://s3.amazonaws.com/dq-blog-files/pandas-cheat-sheet.pdf
+			     ** NumPy cheat sheet : https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf4/19/2019
+
+                 Data science/BigData : 
+                          1. Microsoft Data science free course with out certificate : https://academy.microsoft.com/en-us/tracks/data-science
+                          2. IBM Data science work bench [cognitive labs] : 
+                             https://cognitiveclass.ai/ [bigdatauniversity.com]
+                             https://labs.cognitiveclass.ai/
+                             IBM watson:https://dataplatform.cloud.ibm.com/registration/stepone?cm_mmc=Email_External-_-Developer_Ed+Tech-_-WW_WW-_-Campaign+CognitiveClass+Coursera+DS0105&cm_mmca1=000026UJ&cm_mmca2=10006555&cvosrc=email.External.NA&cvo_campaign=000026UJ
+                          3. Coursera links for IBM data science professional certificaitons.
+                             https://www.coursera.org/programs/tata-communications-specialisation-program-2018-radlv?authProvider=tata-demo&utm_campaign=programId%3AZ9AYuFKxEeiBFgqYZp-HyA%3Bday%3A1546844400000%3Binvitation&utm_medium=email&utm_source=other
+                 
+                          4. https://data-flair.training
+5. Forums:
+          Bigdata : 
+	           1. Kaggle [global]
+		   2. Hackerearth
+		   3. MachineHack
+		   4. Analystics Vidhya [India]
+		   5. TechGIG
+			  
+
+
+
+Mean : when no outliers. mean will get affected by ourliers. sensitive to outliers
+Medien: when we have outliers. median will not affected by ouliers more. robust to outliers.
+
+left skewed distribuation we used to get : mode, median, mean in the left to right order
+                                  exmple: run rates as of cricket match : 5 5 5 5  6 8 9 10 16 10 9
+
+if we know the business, we can explain in stddev, if we don't know teh deviation, then we can go with CV [co-efficient of varidaiton] : [s/x]*100    ; s - stddev, x = mean
+
+stdeg value for example 2 min response time or 2 rupees, this may not understand by everyone, suppose USA people may not know rupeees, hence we can say in co-efficient/percentage of variation.
+
+
+ToDo: 
+  1. open accounts and start contributing at 
+    	BitBucket - Not at
+  2. Open a block may be  Google blockspot
+  3. Make your resume attractive
+  5. install and get hands on PyCharm
+  Hypothesis Testing
+    Null Hyposthesis
+    Alternate Hypothesis
+    significat test and p-values4/20/2019
+
